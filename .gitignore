@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# VSCode
+.vscode/
+
+# 数据和缓存
+*.log
+*.cache/
+checkpoints/
+*.pt
+*.pth
+*.npz
+*.ckpt
+
+# 环境文件（你可根据需要决定是否保存）
+conda
+requirements.txt
+# 权重和数据文件
+VulBERTa/
+finetune/
+pretrain/
+tokenizer/
+data.zip
+
