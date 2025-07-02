@@ -29,6 +29,6 @@ requirements.txt
 VulBERTa/
 finetune/
 pretrain/
-tokenizer/
+data/tokenizer/
 data.zip
 
